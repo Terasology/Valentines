@@ -1,6 +1,6 @@
 {
     "id" : "Valentines",
-    "version" : "0.1.0",
+    "version" : "0.1.1-SNAPSHOT",
     "author" : "Kissey-faced Gooey",
     "displayName" : "Valentines",
     "description" : "What is love? Gooey don't hurt me, don't hurt me, no more ... ♫",
