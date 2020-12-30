@@ -1,10 +1,10 @@
 {
-    "id": "Valentines",
-    "version": "1.0.0",
-    "author": "Kissey-faced Gooey",
-    "displayName": "Valentines",
-    "description": "What is love? Gooey don't hurt me, don't hurt me, no more ... ♫",
-    "dependencies": [],
-    "isServerSideOnly": false,
-    "isAsset": true
+  "id": "Valentines",
+  "version": "1.1.0-SNAPSHOT",
+  "author": "Kissey-faced Gooey",
+  "displayName": "Valentines",
+  "description": "What is love? Gooey don't hurt me, don't hurt me, no more ... ♫",
+  "dependencies": [],
+  "isServerSideOnly": false,
+  "isAsset": true
 }
