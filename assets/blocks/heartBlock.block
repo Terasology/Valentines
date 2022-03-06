@@ -1,0 +1,8 @@
+{
+    "displayName": "Heart Block",
+    "attachmentAllowed" : true,
+    "shadowCasting" : true,
+    "family" : "horizontal",
+    "hardness": 1,
+    "targetable" : true
+}
